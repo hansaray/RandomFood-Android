@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
         /*int colorFrom = R.drawable.background1;
         int colorTo = R.drawable.background2;
         int c3 = R.drawable.background3;
