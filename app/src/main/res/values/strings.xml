@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomFood</string>
+    <string name="title">andomFood</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="allergies">Allergies</string>
+    <string name="exp">Are you tired of constantly thinking about what to eat? \t
+        You\'re at the right place! \t
+        Start your journey, choose you preferences if you have any,\t
+        indicate your food allergies to prevent any future problems, \t
+        and you will get a random food recipe!</string>
+</resources>
